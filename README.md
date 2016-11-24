@@ -1,11 +1,14 @@
-*OVERVIEW:*
+decodeMETAR
+===
+
+### OVERVIEW
 This is a _very simple_ command-line wrapper for [flightaware/mdsplib](https://github.com/flightaware/mdsplib), which was created primarily for experimental and testing uses.
 
-*INSTALLATION:*
+### INSTALLATION
   1. Clone the repository.
   2. $ `make ; make install` should do the trick.
 
-*EXAMPLES:*
+### EXAMPLES
 
 $ `decodeMETAR`
 
